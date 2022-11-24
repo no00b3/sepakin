@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10381722229",
+    "project_id": "football-ad050",
+    "storage_bucket": "football-ad050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10381722229:android:8ba5716b93af66fddb6e3c",
+        "android_client_info": {
+          "package_name": "com.example.sepakin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10381722229-m0ip20lqp2lu76fh6jl69vk77075plvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qQy9bRohh9l87Jztv3k8nl4ZtJebXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10381722229-m0ip20lqp2lu76fh6jl69vk77075plvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
